@@ -1,0 +1,42 @@
+th{
+    border: 1px solid crimson;
+  }
+a:hover{
+    Color: pink;
+}    
+a{
+    Color: purple;
+}
+
+body {
+    background-image: url('http://wboc-digital.s3.amazonaws.com/production/sites/wboc/wp-content/uploads/2015/01/18130834/Grey-website-background.png');
+   }
+
+p{
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+th {
+    color: yellowgreen
+}
+
+td {
+    color: yellowgreen
+}
+
+.column {
+    max-width: 200px;
+    width: 500px;
+  }
